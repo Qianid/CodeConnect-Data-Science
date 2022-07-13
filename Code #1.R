@@ -27,7 +27,6 @@ boxscore %>%
 
 
 
-
 boxscore <- read_csv(file = "nba_boxscore.csv")
 MP <- boxscore$MP[1:11237]
 mean(MP)
