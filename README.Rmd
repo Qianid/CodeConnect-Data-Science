@@ -1,0 +1,9 @@
+---
+title: "README"
+output: html_document
+date: '2022-07-12'
+---
+
+This is a project by Andrew Qian analyzing data on various NBA players. It uses an NBA boxscore dataset from Github.
+
+Include in your README:
