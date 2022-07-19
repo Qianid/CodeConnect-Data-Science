@@ -1,0 +1,12 @@
+## Introduction to dyplyr
+
+dyplyr is an R package in the tidyverse. We can load the package using
+
+```{r}
+
+filter(starwars, hair_color == "blond" | hair_color == "blonde")
+filter(starwars, hair_color == "blond" | species == "human" | hair_color == "blonde")
+
+
+
+```
